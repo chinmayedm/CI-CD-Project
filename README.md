@@ -138,6 +138,6 @@ Data centers
 
 The Hybrid VAE-GNN model enhances network security by combining deep feature learning and graph intelligence. It provides accurate, adaptive, and real-time intrusion detection, serving as a strong foundation for future AI-driven cybersecurity systems.
 
-![dashboard](
+![dashboard](https://github.com/chinmayedm/cybersecurity-project/blob/main/Screenshot%202025-11-25%20at%2019.13.13.png?raw=true)
 
 
